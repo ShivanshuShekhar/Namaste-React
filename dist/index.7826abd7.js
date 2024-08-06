@@ -2961,16 +2961,20 @@ var _clientDefault = parcelHelpers.interopDefault(_client);
 const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
     id: "heading"
 }, "Namaste React");
-// JSX
+console.log(heading);
+// JSX => HTML-like or XML-like Syntax
+// JSX (Transpiled before it reaches the JS Engine) - PARCEL - Babel
 const jsxHeading = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+    id: "heading",
     children: "Namaste React using JSX"
 }, void 0, false, {
     fileName: "App.js",
-    lineNumber: 10,
+    lineNumber: 13,
     columnNumber: 20
 }, undefined);
+console.log(jsxHeading);
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
-root.render(heading);
+root.render(jsxHeading);
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);
 } finally {
