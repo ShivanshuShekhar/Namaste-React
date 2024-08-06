@@ -54,10 +54,10 @@
 81C:\Projects\namaste-react\node_modules\react\cjs\react-jsx-runtime.development.js133673329543032043 0
 57C:\Projects\namaste-react\node_modules\tslib\tslib.es6.js133673241798217428 0
 58C:\Projects\namaste-react\node_modules\type-fest\base.d.ts133673241800337288 0
-41C:\Projects\namaste-react\dist\index.html133673339058957639 0
+41C:\Projects\namaste-react\dist\index.html133674021778173166 0
 82C:\Projects\namaste-react\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133673241820957979 0
 83C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\xml-serializer.js133673241852226810 0
-49C:\Projects\namaste-react\dist\index.9e4c6fd2.css133673339055700198 0
+49C:\Projects\namaste-react\dist\index.9e4c6fd2.css133674021775741134 0
 76C:\Projects\namaste-react\node_modules\@parcel\core\lib\SymbolPropagation.js133673241847267183 0
 70C:\Projects\namaste-react\node_modules\caniuse-lite\data\regions\HR.js133673241838275631 0
 77C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\jpeg2000.js133673241840186045 0
@@ -103,7 +103,7 @@
 61C:\Projects\namaste-react\node_modules\nth-check\lib\parse.js133673241800789282 0
 78C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\gyroscope.js133673241838026929 0
 60C:\Projects\namaste-react\node_modules\node-releases\LICENSE133673241789139216 0
-32C:\Projects\namaste-react\App.js133673339042850908 0
+32C:\Projects\namaste-react\App.js133674021825690987 0
 70C:\Projects\namaste-react\node_modules\caniuse-lite\data\regions\AL.js133673241807016718 0
 69C:\Projects\namaste-react\node_modules\@parcel\utils\src\TapStream.js133673241843855928 0
 63C:\Projects\namaste-react\node_modules\js-yaml\lib\exception.js133673241802498909 0
@@ -118,7 +118,7 @@
 79C:\Projects\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\csso133673241816277222 1
 85C:\Projects\namaste-react\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js133673241793189251 0
 70C:\Projects\namaste-react\node_modules\caniuse-lite\data\regions\AX.js133673241815427484 0
-30C:\Projects\namaste-react\dist133673339058977576 1
+30C:\Projects\namaste-react\dist133674021778591752 1
 92C:\Projects\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo.ps1133673242034610867 0
 68C:\Projects\namaste-react\node_modules\react-error-overlay\README.md133673241821589462 0
 47C:\Projects\namaste-react\node_modules\css-tree133673241833886476 1
@@ -521,7 +521,7 @@
 70C:\Projects\namaste-react\node_modules\caniuse-lite\data\regions\SC.js133673241845256472 0
 49C:\Projects\namaste-react\node_modules\picocolors133673241800296509 1
 73C:\Projects\namaste-react\node_modules\utility-types\dist\mapped-types.js133673241799648753 0
-48C:\Projects\namaste-react\dist\index.7826abd7.js133673339058235224 0
+48C:\Projects\namaste-react\dist\index.7826abd7.js133674021312250117 0
 48C:\Projects\namaste-react\node_modules\picomatch133673241803967386 1
 82C:\Projects\namaste-react\node_modules\@parcel\core\test\PublicEnvironment.test.js133673241845995965 0
 88C:\Projects\namaste-react\node_modules\csso\node_modules\css-tree\lib\syntax\node\Nth.js133673241851949250 0
@@ -5987,5 +5987,5 @@
 52C:\Projects\namaste-react\node_modules\.bin\svgo.ps1133673242034696708 0
 70C:\Projects\namaste-react\node_modules\.bin\update-browserslist-db.cmd133673242034696708 0
 70C:\Projects\namaste-react\node_modules\.bin\update-browserslist-db.ps1133673242034696708 0
-53C:\Projects\namaste-react\dist\index.9e4c6fd2.css.map133673339055820307 0
-52C:\Projects\namaste-react\dist\index.7826abd7.js.map133673339058475440 0
+53C:\Projects\namaste-react\dist\index.9e4c6fd2.css.map133674021775833693 0
+52C:\Projects\namaste-react\dist\index.7826abd7.js.map133674021778561105 0
