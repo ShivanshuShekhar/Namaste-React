@@ -1,4 +1,4 @@
-5994
+6000
 75C:\Projects\namaste-react\node_modules\@parcel\source-map\dist\SourceMap.js133673241810625893 0
 55C:\Projects\namaste-react\node_modules\stable\stable.js133673241795868890 0
 35C:\Projects\namaste-react\index.css133670946232420081 0
@@ -36,7 +36,7 @@
 63C:\Projects\namaste-react\node_modules\js-yaml\lib\exception.js133673241802498909 0
 78C:\Projects\namaste-react\node_modules\svgo\plugins\convertOneStopGradients.js133673241816439632 0
 95C:\Projects\namaste-react\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133673241795914035 0
-36C:\Projects\namaste-react\.gitignore133673316958107492 0
+36C:\Projects\namaste-react\.gitignore133674067303992614 0
 48C:\Projects\namaste-react\node_modules\env-paths133673241797979931 1
 59C:\Projects\namaste-react\node_modules\msgpackr-extract\src133673241791189562 1
 49C:\Projects\namaste-react\node_modules\domhandler133673241800849677 1
@@ -54,7 +54,7 @@
 79C:\Projects\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\csso133673241816277222 1
 85C:\Projects\namaste-react\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js133673241793189251 0
 70C:\Projects\namaste-react\node_modules\caniuse-lite\data\regions\AX.js133673241815427484 0
-30C:\Projects\namaste-react\dist133674059722913029 1
+30C:\Projects\namaste-react\dist133674087578956138 1
 92C:\Projects\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo.ps1133673242034610867 0
 68C:\Projects\namaste-react\node_modules\react-error-overlay\README.md133673241821589462 0
 47C:\Projects\namaste-react\node_modules\css-tree133673241833886476 1
@@ -92,7 +92,7 @@
 75C:\Projects\namaste-react\node_modules\@swc\helpers\_\_class_name_tdz_error133673241831928573 1
 85C:\Projects\namaste-react\node_modules\csso\node_modules\css-tree\cjs\lexer\index.cjs133673241844938638 0
 72C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\url.js133673241850308244 0
-38C:\Projects\namaste-react\package.json133674059426862296 0
+38C:\Projects\namaste-react\package.json133674086037104003 0
 46C:\Projects\namaste-react\node_modules\is-json133673241800246496 1
 104C:\Projects\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\types.d.ts133673241812719343 0
 69C:\Projects\namaste-react\node_modules\nth-check\lib\esm\compile.d.ts133673241809247867 0
@@ -1917,6 +1917,7 @@
 67C:\Projects\namaste-react\node_modules\css-tree\cjs\lexer\Lexer.cjs133673241820449815 0
 94C:\Projects\namaste-react\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133673241828339867 0
 115C:\Projects\namaste-react\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional133673242034727730 0
+52C:\Projects\namaste-react\dist\index.266284fb.js.map133674087578926165 0
 76C:\Projects\namaste-react\node_modules\csso\lib\restructure\1-mergeAtrule.js133673241814637516 0
 83C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\css-line-clamp.js133673241829993873 0
 119C:\Projects\namaste-react\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133673242034717488 0
@@ -2449,7 +2450,7 @@
 83C:\Projects\namaste-react\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133673241800448048 1
 91C:\Projects\namaste-react\node_modules\css-select\lib\esm\pseudo-selectors\filters.d.ts.map133673241812987356 0
 89C:\Projects\namaste-react\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.cjs133673241800276358 0
-41C:\Projects\namaste-react\dist\index.html133674059722600974 0
+41C:\Projects\namaste-react\dist\index.html133674087578518664 0
 82C:\Projects\namaste-react\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133673241820957979 0
 83C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\xml-serializer.js133673241852226810 0
 64C:\Projects\namaste-react\node_modules\css-tree\lib\utils\url.js133673241833379383 0
@@ -4191,6 +4192,7 @@
 76C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\datauri.js133673241833545790 0
 64C:\Projects\namaste-react\node_modules\@parcel\transformer-babel133673241826529779 1
 86C:\Projects\namaste-react\node_modules\@swc\helpers\esm\_class_apply_descriptor_get.js133673241824899224 0
+52C:\Projects\namaste-react\dist\index.235bbb25.js.map133674087578926165 0
 92C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133673241833575739 0
 75C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\dialog.js133673241834038353 0
 73C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\wasm.js133673241851423308 0
@@ -5679,6 +5681,7 @@
 130C:\Projects\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133673241809818690 0
 84C:\Projects\namaste-react\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133673241838930761 0
 64C:\Projects\namaste-react\node_modules\@parcel\optimizer-css\lib133673241834755303 1
+48C:\Projects\namaste-react\dist\index.235bbb25.js133674087578538734 0
 73C:\Projects\namaste-react\node_modules\@parcel\optimizer-css\package.json133673241834867088 0
 80C:\Projects\namaste-react\node_modules\@parcel\optimizer-css\src\CSSOptimizer.js133673241834847106 0
 80C:\Projects\namaste-react\node_modules\@parcel\optimizer-css\lib\CSSOptimizer.js133673241834775391 0
@@ -5771,6 +5774,7 @@
 77C:\Projects\namaste-react\node_modules\@parcel\core\test\fixtures\module-b.js133673241844968680 0
 72C:\Projects\namaste-react\node_modules\@parcel\core\test\fixtures\parcel133673241850948702 1
 93C:\Projects\namaste-react\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one133673241850856783 1
+48C:\Projects\namaste-react\dist\index.266284fb.js133674087578538734 0
 106C:\Projects\namaste-react\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133673241850866770 0
 89C:\Projects\namaste-react\node_modules\@parcel\core\test\fixtures\plugins\local-plugin.js133673241844918358 0
 86C:\Projects\namaste-react\node_modules\@parcel\core\test\fixtures\plugins\node_modules133673241844686283 1
@@ -5985,6 +5989,8 @@
 52C:\Projects\namaste-react\node_modules\.bin\svgo.ps1133673242034696708 0
 70C:\Projects\namaste-react\node_modules\.bin\update-browserslist-db.cmd133673242034696708 0
 70C:\Projects\namaste-react\node_modules\.bin\update-browserslist-db.ps1133673242034696708 0
+49C:\Projects\namaste-react\dist\index.5af864e2.css133674087578518664 0
+53C:\Projects\namaste-react\dist\index.5af864e2.css.map133674087578916134 0
 48C:\Projects\namaste-react\dist\index.6bd02f5a.js133673332371364387 0
 52C:\Projects\namaste-react\dist\index.6bd02f5a.js.map133673332371674322 0
 52C:\Projects\namaste-react\dist\index.7826abd7.js.map133674021778561105 0
