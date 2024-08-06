@@ -2956,25 +2956,12 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-const parent = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
-    id: "parent"
-}, [
-    /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
-        id: "child"
-    }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I'm an H1 tag"),
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "I'm an H2 tag")
-    ]),
-    /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
-        id: "child2"
-    }, [
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "I'm an H1 tag"),
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "I'm an H2 tag")
-    ])
-]);
-console.log(parent); //object
+// React.createElement => Object => HTMLElement(render)
+const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
+    id: "heading"
+}, "Namaste React");
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
-root.render(parent);
+root.render(heading);
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);
 } finally {
