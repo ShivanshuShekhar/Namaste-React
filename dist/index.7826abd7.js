@@ -2957,20 +2957,15 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-// React.createElement => Object => HTMLElement(render)
-const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {
-    id: "heading"
-}, "Namaste React");
-console.log(heading);
-// JSX => HTML-like or XML-like Syntax
-// JSX (Transpiled before it reaches the JS Engine) - PARCEL - Babel
+// React Element
 const jsxHeading = /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-    id: "heading",
+    className: "head",
+    tabIndex: 5,
     children: "Namaste React using JSX"
 }, void 0, false, {
     fileName: "App.js",
-    lineNumber: 13,
-    columnNumber: 20
+    lineNumber: 6,
+    columnNumber: 21
 }, undefined);
 console.log(jsxHeading);
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));

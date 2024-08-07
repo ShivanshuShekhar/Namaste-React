@@ -1,16 +1,9 @@
 import React from "react";
 import ReactDOM from 'react-dom/client';
 
-// React.createElement => Object => HTMLElement(render)
+// React Element
 
-const heading = React.createElement("h1", {id: "heading"}, "Namaste React");
-
-console.log(heading);
-
-// JSX => HTML-like or XML-like Syntax
-// JSX (Transpiled before it reaches the JS Engine) - PARCEL - Babel
-
-const jsxHeading = <h1 id="heading">Namaste React using JSX</h1>;
+const jsxHeading = (<h1 className="head" tabIndex={5}>Namaste React using JSX</h1>);
 
 console.log(jsxHeading);
 
