@@ -11,6 +11,7 @@ const Title = () => (
 
 const HeadingComponent = () => (
     <div id="container">
+    <Title />
         <h1 className="heading">Namaste React Functional Component</h1>
     </div>
 );

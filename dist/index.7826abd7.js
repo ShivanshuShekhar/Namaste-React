@@ -2970,15 +2970,22 @@ _c = Title;
 // React Functional Components
 const HeadingComponent = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         id: "container",
-        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
-            className: "heading",
-            children: "Namaste React Functional Component"
-        }, void 0, false, {
-            fileName: "App.js",
-            lineNumber: 14,
-            columnNumber: 9
-        }, undefined)
-    }, void 0, false, {
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Title, {}, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 14,
+                columnNumber: 5
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
+                className: "heading",
+                children: "Namaste React Functional Component"
+            }, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 15,
+                columnNumber: 9
+            }, undefined)
+        ]
+    }, void 0, true, {
         fileName: "App.js",
         lineNumber: 13,
         columnNumber: 5
@@ -2987,7 +2994,7 @@ _c1 = HeadingComponent;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
     fileName: "App.js",
-    lineNumber: 20,
+    lineNumber: 21,
     columnNumber: 13
 }, undefined));
 var _c, _c1;
