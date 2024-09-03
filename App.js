@@ -17,15 +17,24 @@ const Header = () => {
             </div>
         </div>
     )
-}
+};
+
+const Body = () => {
+    return (
+        <div className="body">
+
+        </div>
+    )
+};
 
 const AppLayout = () => {
     return (
         <div className="app">
             <Header />
+            <Body />
         </div>
     )
-}
+};
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
