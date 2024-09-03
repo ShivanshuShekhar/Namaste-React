@@ -9,7 +9,7 @@
 51C:\Projects\namaste-react\node_modules\import-fresh133673241797921567 1
 78C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\gyroscope.js133673241838026929 0
 60C:\Projects\namaste-react\node_modules\node-releases\LICENSE133673241789139216 0
-32C:\Projects\namaste-react\App.js133698593208611393 0
+32C:\Projects\namaste-react\App.js133698597208244268 0
 70C:\Projects\namaste-react\node_modules\caniuse-lite\data\regions\AL.js133673241807016718 0
 69C:\Projects\namaste-react\node_modules\@parcel\utils\src\TapStream.js133673241843855928 0
 63C:\Projects\namaste-react\node_modules\js-yaml\lib\exception.js133673241802498909 0
@@ -44,7 +44,7 @@
 74C:\Projects\namaste-react\node_modules\source-map\dist\source-map.debug.js133673241808929231 0
 43C:\Projects\namaste-react\node_modules\csso133673241823092119 1
 73C:\Projects\namaste-react\node_modules\utility-types\dist\mapped-types.js133673241799648753 0
-48C:\Projects\namaste-react\dist\index.7826abd7.js133698593223323953 0
+48C:\Projects\namaste-react\dist\index.7826abd7.js133698597212078259 0
 48C:\Projects\namaste-react\node_modules\picomatch133673241803967386 1
 75C:\Projects\namaste-react\node_modules\@parcel\source-map\dist\SourceMap.js133673241810625893 0
 55C:\Projects\namaste-react\node_modules\stable\stable.js133673241795868890 0
@@ -78,7 +78,7 @@
 79C:\Projects\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\csso133673241816277222 1
 85C:\Projects\namaste-react\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js133673241793189251 0
 70C:\Projects\namaste-react\node_modules\caniuse-lite\data\regions\AX.js133673241815427484 0
-30C:\Projects\namaste-react\dist133698593223840691 1
+30C:\Projects\namaste-react\dist133698597212363844 1
 92C:\Projects\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo.ps1133673242034610867 0
 68C:\Projects\namaste-react\node_modules\react-error-overlay\README.md133673241821589462 0
 47C:\Projects\namaste-react\node_modules\css-tree133673241833886476 1
@@ -2450,7 +2450,7 @@
 83C:\Projects\namaste-react\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133673241800448048 1
 91C:\Projects\namaste-react\node_modules\css-select\lib\esm\pseudo-selectors\filters.d.ts.map133673241812987356 0
 89C:\Projects\namaste-react\node_modules\htmlnano\lib\modules\collapseBooleanAttributes.cjs133673241800276358 0
-41C:\Projects\namaste-react\dist\index.html133698593223810697 0
+41C:\Projects\namaste-react\dist\index.html133698596694063221 0
 82C:\Projects\namaste-react\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133673241820957979 0
 83C:\Projects\namaste-react\node_modules\caniuse-lite\data\features\xml-serializer.js133673241852226810 0
 64C:\Projects\namaste-react\node_modules\css-tree\lib\utils\url.js133673241833379383 0
@@ -5866,7 +5866,7 @@
 69C:\Projects\namaste-react\node_modules\@parcel\core\lib\serializer.js133673241846646355 0
 81C:\Projects\namaste-react\node_modules\@parcel\core\lib\serializerCore.browser.js133673241846898758 0
 73C:\Projects\namaste-react\node_modules\@parcel\core\lib\serializerCore.js133673241847116120 0
-49C:\Projects\namaste-react\dist\index.9e4c6fd2.css133698593219050218 0
+49C:\Projects\namaste-react\dist\index.9e4c6fd2.css133698596692234998 0
 76C:\Projects\namaste-react\node_modules\@parcel\core\lib\SymbolPropagation.js133673241847267183 0
 73C:\Projects\namaste-react\node_modules\@parcel\core\lib\Transformation.js133673241848841785 0
 69C:\Projects\namaste-react\node_modules\@parcel\core\lib\Validation.js133673241849295472 0
@@ -5997,5 +5997,5 @@
 53C:\Projects\namaste-react\dist\index.8d566482.css.map133674059722882948 0
 56C:\Projects\namaste-react\dist\namaste-react.3464ddca.js133673332371374331 0
 60C:\Projects\namaste-react\dist\namaste-react.3464ddca.js.map133673332371674322 0
-53C:\Projects\namaste-react\dist\index.9e4c6fd2.css.map133698593219187199 0
-52C:\Projects\namaste-react\dist\index.7826abd7.js.map133698593223530838 0
+53C:\Projects\namaste-react\dist\index.9e4c6fd2.css.map133698596692365008 0
+52C:\Projects\namaste-react\dist\index.7826abd7.js.map133698597212313789 0
