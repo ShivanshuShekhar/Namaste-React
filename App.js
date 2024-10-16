@@ -19,12 +19,14 @@ const Header = () => {
     )
 };
 
-const RestaurantCard = () => {
+const RestaurantCard = (props) => {
+    console.log(props);
+    
     return (
         <div className="res-card" style={{backgroundColor: '#f0f0f0'}}>
             <img className="res-logo" src="https://images.immediate.co.uk/production/volatile/sites/30/2013/05/spaghetti-carbonara-382837d.jpg?resize=768,574" alt="res-logo" />
-            <h3>Meghana Foods</h3>
-            <h4>Spaghetti Carbonara</h4>
+            <h3>{props.resName}</h3>
+            <h4>{props.cuisine}</h4>
             <h4>4.4 Stars</h4>
             <h4>38 Minutes</h4>
         </div>
@@ -38,16 +40,8 @@ const Body = () => {
                 Search
             </div>
             <div className="res-container">
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
-                <RestaurantCard />
+                <RestaurantCard resName='Meghna Foods' cuisine='Biryani, North Indian, Asian' />
+                <RestaurantCard resName='KFC' cuisine='Burger, Fast Food' />
             </div>
         </div>
     )
