@@ -3029,7 +3029,7 @@ const Header = ()=>{
 };
 _c = Header;
 const RestaurantCard = (props)=>{
-    console.log(props);
+    const { resName, cuisine } = props;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "res-card",
         style: {
